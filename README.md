@@ -8,8 +8,8 @@ Examples of some of the python notebooks and analysis
 
 S&P 500 listing EV/EBITDA export 
 
-  Ticker                                 Company   EV/EBITDA
-0      MMM                                      3M    8.276278
+  Ticker|                                | Company|   EV/EBITDA
+0      MMM    |                          3M    8.276278
 
 1      AOS                             A. O. Smith   14.313191
 2      ABT                                  Abbott   18.553022
