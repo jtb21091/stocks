@@ -10,4 +10,4 @@ SP500 EV/EBITDA 8.2.2024 (excludes banks due to not having the data)
 
 ![image](https://github.com/user-attachments/assets/8d1b3d08-3a82-4828-8abd-107dad08ff54)
 
-![image](https://github.com/user-attachments/assets/74fff68d-9a77-4405-a72a-2e018f58200e)
+![image](https://github.com/user-attachments/assets/88c4c3da-4a29-4b36-aa87-33c203b6f59c)
